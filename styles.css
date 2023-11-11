@@ -191,6 +191,7 @@ li a {
 .quote-signup {
     font-size: 27px;
     font-weight: 900;
+    font-style:normal;
     align-self: flex-end;
     margin-right: 35px;
     margin-top: 10px;
